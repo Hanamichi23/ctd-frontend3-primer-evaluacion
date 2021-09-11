@@ -1,13 +1,13 @@
-ACLARACIÓN:
+## ACLARACIÓN:
 
-Quise hacer la app lo más independiente posible del JSON. Esto significa que el sistema permite modificar las siguientes características y seguir funcionando correctamente:
+**Quise hacer la app lo más independiente posible del JSON. Esto significa que el sistema permite modificar las siguientes características y seguir funcionando correctamente:**
 
-- Cambiar la cantidad total de elecciones a realizar (actualmente 5).
-- Cambiar la cantidad de opciones disponibles en cada elección (actualmente 2).
-- Cambiar la nomenclatura utilizada para representar a las opciones disponibles (actualmente 'a' y 'b').
-
-
-
+-   Cambiar la cantidad total de elecciones a realizar (actualmente 5).
+-   Cambiar la cantidad de opciones disponibles en cada elección (actualmente 2).
+-   Cambiar la nomenclatura utilizada para representar a las opciones disponibles (actualmente 'a' y 'b').
+  
+  
+  
 **Primer evaluación entregable de Front-end III para C.T.D.**
 
  - Pueden ver el deploy de la aplicación en:
